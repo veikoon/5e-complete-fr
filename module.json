@@ -160,8 +160,8 @@
             "package": "5e-complete-fr"
         }
     ],
-    "url": "https://github.com/brocasm/5e-complete-fr",
-    "manifest": "https://github.com/brocasm/5e-complete-fr/blob/main/module.json?raw=true",
-    "download": "https://github.com/brocasm/5e-complete-fr/releases/download/v0.3.3/module.zip",
+    "url": "https://github.com/veikoon/5e-complete-fr",
+    "manifest": "https://github.com/veikoon/5e-complete-fr/blob/main/module.json?raw=true",
+    "download": "https://github.com/veikoon/5e-complete-fr/releases/download/v0.3.3/module.zip",
     "description": "This module adds classes, subclasses, and other items missing from the D&D 5e SRD"
 }
