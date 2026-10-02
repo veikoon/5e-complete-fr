@@ -11,8 +11,8 @@
     ],
     "compatibility": {
             "minimum": "10",
-            "maximum": "12",
-            "verified": "12.331"
+            "maximum": "14",
+            "verified": "14.368"
     },
     "styles": [
         "css/styles.css"
